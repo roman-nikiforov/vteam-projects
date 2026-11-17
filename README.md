@@ -1,6 +1,6 @@
-# Fusion Feedback Dashboard
+# Fusion Tracker - Contact Center and Agents
 
-Cloud-hosted dashboard for Fusion feedback items in the **Dynamics 365 Contact Center and Agents** v-Team.
+Cloud-hosted dashboard for tracking progress on Fusion feedback items in the **Dynamics 365 Contact Center and Agents** v-Team.
 
 ## What this app does
 
@@ -9,7 +9,7 @@ Cloud-hosted dashboard for Fusion feedback items in the **Dynamics 365 Contact C
 - Filters records to the configured v-Team name.
 - Shows:
   - Total / open / closed counts
-  - Distribution by status
+  - A main status widget with the number of feedback items per status
   - Distribution by owner
   - 12-month creation trend
   - Latest feedback items table
